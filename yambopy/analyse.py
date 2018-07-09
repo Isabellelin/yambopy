@@ -12,6 +12,7 @@ import os
 import json
 import re
 from itertools import product
+from matplotlib import pyplot as plt
 
 class YamboAnalyser():
     """
